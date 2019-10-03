@@ -1,0 +1,29 @@
+##############################################
+# Syntax Coloring Map For Any Analog Sensor  #
+# (Battery, Thermistor, Photoresistor, etc.) #
+##############################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+Analog			KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+init			KEYWORD2
+inited			KEYWORD2
+cid				KEYWORD2
+pin				KEYWORD2
+changePin		KEYWORD2
+changeInterval	KEYWORD2
+reset			KEYWORD2
+read			KEYWORD2
+update			KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+

@@ -1,0 +1,10 @@
+MPU6500				KEYWORD1
+
+init				KEYWORD2
+changeInterval			KEYWORD2
+reset				KEYWORD2
+read				KEYWORD2
+update				KEYWORD2
+cid				KEYWORD2
+addr				KEYWORD2
+MPU6500_Result			KEYWORD2
